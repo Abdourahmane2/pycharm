@@ -1,0 +1,9 @@
+cree un repersotory sur git hub
+
+faire dans fit bash git clone line ves le repertoire
+
+faire git add .
+
+faire git commit -m "message"
+
+faire git push -u master
